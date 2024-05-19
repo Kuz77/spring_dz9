@@ -1,3 +1,6 @@
 [submodule "spring_dz_8"]
 	path = spring_dz_8
 	url = https://github.com/Kuz77/spring_dz_8.git
+[submodule "spring_dz8"]
+	path = spring_dz8
+	url = https://github.com/Kuz77/spring_dz8.git
